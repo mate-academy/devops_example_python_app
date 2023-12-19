@@ -20,5 +20,5 @@ This is a simple python application that responds with the message "Docker is Aw
     ```bash
     python3 app.py
     ```
-dsd
+
 3. Open browser to http://127.0.0.1:8080/
